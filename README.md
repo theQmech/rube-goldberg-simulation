@@ -1,6 +1,8 @@
 Rube Goldberg Simulation in Box2D
 =================================
 
+Check the [screen capture](https://youtu.be/wO4pToQSqB4) of the simulation.
+
 Contributors
 ------------
 Rupanshu Ganvir
